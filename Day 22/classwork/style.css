@@ -1,0 +1,20 @@
+#p1{
+color: red;
+background-color: black;
+font-size:smaller;
+font-weight:80;
+}
+
+#p2{
+color: blue;
+background-color: black;
+font-size:larger;
+font-weight:60;
+}
+
+#p3{
+color: yellow;
+background-color:green;
+font-size: xx-large;
+font-weight: 900;
+}
